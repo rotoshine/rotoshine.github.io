@@ -1,20 +1,14 @@
 - name: Blog
   href: '/blog/'
 
-- name: Python
-  href: '/python/'
+- name: Development
+  href: '/developmentev/'
 
-- name: Linux
-  href: '/linux/'
+- name: Music
+  href: '/music/'
 
-- name: HTML
-  href: '/html/'
-
-- name: Database
-  href: '/database/'
-
-- name: Mac
-  href: '/mac/'
+- name: Long Bloard
+  href: '/long-board/'
 
 - name: Life
   href: '/life/'
