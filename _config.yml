@@ -59,10 +59,10 @@ sections:
 
 # localization
 languages:
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
   - locale: 'ko'
     flag: 'static/img/flags/South-Korea.png'
+  - locale: 'en'
+    flag: 'static/img/flags/United-States.png'
 
 # blog img path
 img_path: '/static/img/blog'
@@ -74,8 +74,6 @@ disqus:
   public_key: eGlagthWw2PoOLoPxMewVuqQRKiQLDMBTN4tIC39JfkH4IDN1Zq70s3Ll4TmmhU4
 
 # share
-bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
 
 # google analytics
 ga:

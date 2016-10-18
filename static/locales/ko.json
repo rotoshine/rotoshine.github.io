@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "Full Stack Web Developer"
   },
   "skills":{
     "my_skills": "My Skills"
@@ -28,21 +28,21 @@
   "career":{
     "my_career": "My Career",
     "coupang": "쿠팡",
-    "coupang_des": "현재 쿠팡에서 근무중",
-    "coupang_date": "2015년 3월",
+    "coupang_desc": "쿠팡 여행 서비스 개발",
+    "coupang_date": "2015년 3월부터 현재",
     "coupang_job": "Web Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+    "itwise": "아이티와이즈 컨설팅",
+    "itwise_desc": "GSSHOP 모바일 웹 상품 페이지 개발 및 기획전 UI Component 개발도구 개발",
+    "itwise_date": "2012년 3월 ~ 2015년 3월",
+    "itwise_job": "Web Developer",
+    "danawa": "다나와",
+    "danawa_desc": "다나와 웹 유지보수 및 컴퓨터 수리 예약 시스템 개발",
+    "danawa_date": "2011년 2월 ~ 2012년 2월",
+    "danawa_job": "Web Develper",
+    "accc": "공군 중앙전산소",
+    "accc_desc": "공군 인트라넷 시스템 유지보수 및 간부평가 시스템 개발",
+    "accc_date": "2009년 2월 ~ 2012년 12월",
+    "accc_job": "소프트웨어 개발병"
   },
   "blog":{
     "my_blog": "My Blog"

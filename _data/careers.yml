@@ -3,11 +3,53 @@
     i18n: coupang
   desc:
     detail: coupang travel service web & mobile web & mobile api development.
-    i18n: coupang_des
+    i18n: coupang_desc
   date:
-    detail: Match. 2015
+    detail: March. 2015
     i18n: coupang_date
   job:
     detail: Web Developer
     i18n: coupang_job
-  icon: fa-plus-square
+  icon: fa-plane
+
+- name:
+    detail: ITWise Consulting
+    i18n: itwise
+  desc:
+    detail: gsshop mobile web page development & gsshop UI Component making tool development.
+    i18n: itwise_desc
+  date:
+    detail: March. 2012 ~ March. 2015
+    i18n: itwise_date
+  job:
+    detail: Web Developer
+    i18n: itwise_job
+  icon: fa-terminal
+
+- name:
+    detail: DANAWA
+    i18n: danawa
+  desc:
+    detail: pc repair service platform development & DANAWA Web maintenace.
+    i18n: danawa_desc
+  date:
+    detail: Feb. 2011 ~ March. 2012
+    i18n: danawa_date
+  job:
+    detail: Web Developer
+    i18n: danawa_job
+  icon: fa-desktop
+
+- name:
+    detail: Airforce Central Computing Center
+    i18n: accc
+  desc:
+    detail: Airforce Central Computing Center systems maintenace & staff evaluation platform development.
+    i18n: accc_desc
+  date:
+    detail: Jan. 2009 ~ Dec. 2010
+    i18n: accc_date
+  job:
+    detail: Web Developer
+    i18n: accc_job
+  icon: fa-group
