@@ -6707,14 +6707,18 @@ body.landing-page {
   background-repeat: no-repeat;
   background-position: center;
 }
+.landing-page .header-back{
+  background-size: cover;
+  background-position: center;
+}
 .landing-page .header-back.one {
-  background: url('../img/landing/header_one.jpg');
+  background-image: url('../img/landing/header_one.jpg');
 }
 .landing-page .header-back.two {
-  background: url('../img/landing/header_two.jpg');
+  background-image: url('../img/landing/header_two.jpg');
 }
 .landing-page .header-back.three {
-  background: url('../img/landing/header_three.jpg');
+  background-image: url('../img/landing/header_three.jpg');
 }
 .landing-page .carousel {
   height: 470px;
