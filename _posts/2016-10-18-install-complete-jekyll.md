@@ -9,7 +9,7 @@ tags: []
 icon: fa-bookmark-o
 ---
 
-지킬을 설치했다.
+jekyll을 설치했다.
 
 저렴하게 구매한 도메인도 연결해두었다.
 

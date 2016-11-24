@@ -17,10 +17,10 @@
   percentage: 90
 
 - name: HTML/CSS
-  percentage: 65
+  percentage: 55
 
 - name: Linux/Shell
-  percentage: 75
+  percentage: 55
 
 - name: Ionic
   percentage: 60
